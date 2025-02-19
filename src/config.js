@@ -1,6 +1,6 @@
 export const defaultConfig = {
-    text: '梦爱吃鱼',       // 默认文本
-    watermark: '@梦爱吃鱼', // 默认水印
+    text: 'Peter267',       // 默认文本
+    watermark: ' ', // 默认水印
     fontFamily: import.meta.env.VITE_APP_FONT_FAMILY,
     fontStyles: [
         'https://chinese-fonts-cdn.deno.dev/packages/yozai/dist/Yozai-Regular/result.css',
